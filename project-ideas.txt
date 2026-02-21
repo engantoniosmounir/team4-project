@@ -1,2 +1,3 @@
 Project Ideas:
 ==============
+- Hadeer: Build a weather app using an API
