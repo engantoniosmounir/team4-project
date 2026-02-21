@@ -1,3 +1,5 @@
 Project Ideas:
 ==============
-Zeyad: Build Backend API system
+
+  Zeyad: Build Backend API system
+ -Galal: use agent to do autmoted docker tasks
