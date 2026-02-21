@@ -1,0 +1,4 @@
+Name: Hadeer
+Task: Bash and Git practice
+Date: 21-02-2026
+Notes: 

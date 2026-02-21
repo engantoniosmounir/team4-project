@@ -1,7 +1,7 @@
 Project Ideas:
 ==============
 
+- Hadeer: Build a weather app using an API
 - Antonios: Build a CI/CD pipeline project
   Zeyad: Build Backend API system
  -Galal: use agent to do autmoted docker tasks
-
