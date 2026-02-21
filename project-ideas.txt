@@ -1,5 +1,7 @@
 Project Ideas:
 ==============
 
+- Antonios: Build a CI/CD pipeline project
   Zeyad: Build Backend API system
  -Galal: use agent to do autmoted docker tasks
+

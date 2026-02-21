@@ -1,0 +1,6 @@
+Name: Antonios Mounir
+Role: DevOps Engineer
+Skills: Linux, Git, Docker
+Hobby: Reading
+Fun fact: I love automation
+
