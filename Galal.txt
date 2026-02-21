@@ -1,0 +1,5 @@
+Name: GalalMohamed
+Role: Frontend Developer
+Skills: HTML, CSS, JavaScript
+Hobby: Gaming
+Fun fact: I can solve a Rubik's cube in under 2 minutes
