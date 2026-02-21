@@ -1,3 +1,6 @@
 Team Members:
 =============
+
 1- Antonios Mounir
+Zeyad Gamal (Backend Developer)
+- Galal Mohamed DevOps Engineer
